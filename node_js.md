@@ -1,4 +1,4 @@
-Sure, I can help you create an API for a database using Node.js. Here are the steps to follow:
+Here are the steps to follow:
 
 1. Set up the environment: First, you need to install Node.js on your system. Once installed, create a new directory for your project and open a command prompt in that directory.
 
