@@ -1,4 +1,4 @@
-Sure, I can help you with that. Here's an example of how to connect to an API in React using the Fetch method and perform CRUD (Create, Read, Update, Delete) operations:
+Here's an example of how to connect to an API in React using the Fetch method and perform CRUD (Create, Read, Update, Delete) operations:
 
 Step 1: Create a new React component for your API functions. In this example, we'll call it `ApiFunctions`.
 
