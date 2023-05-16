@@ -133,6 +133,7 @@ Step 11: Render the form and the table of data. The form allows the user to ente
 
 That's it! This example should give you a good starting point for connecting to an API in React using the Fetch method and performing CRUD operations. Note that you'll need to replace `https://example.com/api` with the URL of your own API, and adjust the structure of the API calls to match the requirements of your API.
 
+# Explanation
 
 Sure, let's dive deeper into the details of this React component.
 
