@@ -227,10 +227,6 @@ const deleteData = async (id) => {
 };
 ```
 
-Each function makes a request
-
-I apologize, it seems my previous response was cut off. Here's the continuation:
-
 Each function makes a request to the API using the `fetch` function with the appropriate HTTP method and request body. The `createData` function makes a POST request to the API with the values in the `formData` state. The `updateData` function makes a PUT request to the API with the values in the `formData` state and the ID of the todo item to be updated. The `deleteData` function makes a DELETE request to the API with the ID of the todo item to be deleted.
 
 After each request is completed, the `getData` function is called to update the `data` state with the new list of todos.
